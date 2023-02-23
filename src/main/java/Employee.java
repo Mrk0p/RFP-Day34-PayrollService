@@ -8,6 +8,7 @@ public class Employee {
     Date startDate;
     String Gender;
     public Employee(int id, String name, double salary, Date startDate, String Gender) {
+
         super();
         this.Id = id;
         this.Name = name;
