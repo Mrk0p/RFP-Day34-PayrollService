@@ -10,6 +10,7 @@ public class Employee {
     public Employee(int id, String name, double salary, Date startDate, String Gender) {
 
         super();
+
         this.Id = id;
         this.Name = name;
         this.Salary = salary;
